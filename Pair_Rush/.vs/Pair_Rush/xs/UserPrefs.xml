@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F79AF71F-DB62-FB6A-CA49-BF279B7F6B61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scene_Management_script.cs">
+    <Files>
+      <File FileName="Assets/Scene_Management_script.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pair_Rush" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scene_Management_script.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f0ddd475-759c-428b-946f-8595ccaffe74" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
