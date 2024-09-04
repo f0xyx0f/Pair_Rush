@@ -21,4 +21,5 @@ public class Level_script : MonoBehaviour
         foreach (GameObject go in marks.Where(g => Array.IndexOf(marks, g) != m))
             go.SetActive(false);
     }
+    public void ChangwLvl(int n) => Level_info.level_num = n;
 }
